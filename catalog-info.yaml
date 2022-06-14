@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-community
+  annotations:
+    github.com/project-slug: marcelaldecoa/backstage-community
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
