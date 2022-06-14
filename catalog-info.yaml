@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: marcelaldecoa/backstage-community
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: production
   owner: team-a
